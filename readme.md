@@ -1,3 +1,7 @@
+## Menu Builder
+
+Simple package to build interactive CLI applications with easy customization.
+
 ## Use as a Jitpack depency:
 
 [![](https://jitpack.io/v/MateusAlvarenga/menuBuilder.svg)](https://jitpack.io/#MateusAlvarenga/menuBuilder)
